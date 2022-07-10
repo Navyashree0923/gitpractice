@@ -47,4 +47,4 @@ It's an event that takes place when git is unable to automatically resolve diffe
 - git rebase --onto <>
 
 To know more about git commands - https://www.atlassian.com/git/glossary
-Git documentation - https://git-scm.com/docs/git
+Git documentation - https://git-scm.com/docs/git.
