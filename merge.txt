@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 content to append
+=======
+this is some content to mess with
+>>>>>>> gitprac
