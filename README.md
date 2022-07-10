@@ -45,3 +45,5 @@ It's an event that takes place when git is unable to automatically resolve diffe
 - git commit -a -m ""
 - git rebase <base>
 - git rebase --onto <>
+
+To know more about git commands - https://www.atlassian.com/git/glossary
