@@ -38,3 +38,10 @@ It's an event that takes place when git is unable to automatically resolve diffe
 
 - git stash pop -> throws away the topmost by default statsh after applying it.
 - git stash apply -> leaves it in the stash list for possible later reuse.
+
+## Git rebase
+
+- git reabse -> Rebasing is the process of moving or combining a sequence of commits to a new base commit.
+- git commit -a -m ""
+- git rebase <base>
+- git rebase --onto <>
