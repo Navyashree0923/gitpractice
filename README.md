@@ -21,3 +21,15 @@ Github is used to host the source code.
 - git branch -D <branch name> -> To delete the branch
 - git branch -> Pointers to a snapshot of the changes.
 - git checkout <branch name> -> Switch to a new branch
+- git push -> Used to push the local repo.
+- git pull -> Used to fetch and merge code changes.
+
+## Merge conflict and how to solve it 
+It's an event that takes place when git is unable to automatically resolve differences in code between two commits.
+
+- git remote add origin <address>
+- git pull origin master
+- git status
+- git add .
+- git commit -m "commit message"
+- git push origin master
