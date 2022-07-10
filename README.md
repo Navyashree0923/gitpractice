@@ -33,3 +33,8 @@ It's an event that takes place when git is unable to automatically resolve diffe
 - git add .
 - git commit -m "commit message"
 - git push origin master
+
+## Git stash
+
+- git stash pop -> throws away the topmost by default statsh after applying it.
+- git stash apply -> leaves it in the stash list for possible later reuse.
